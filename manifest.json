@@ -1,9 +1,8 @@
 {
-  "name": "Getting Started Example",
+  "name": "Change your mood",
   "version": "1.0",
-  "description": "Build an Extension!",
-  "permissions": ["activeTab", "https://sb.err.ee/live/raadio2.m3u8"], 
-  "content_security_policy": "script-src 'self' https://cdn.jsdelivr.net/npm/hls.js@latest 'sha256-ZcTc0nFeBRyCB8RFKeN9jzF0i+B0bcYNPZB0+BCtoBY='; object-src 'self'",
+  "description": "whatever you feel",
+  "permissions": ["activeTab"], 
   "browser_action": {
     "default_popup": "popup.html",
     "default_icon": {

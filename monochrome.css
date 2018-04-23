@@ -4,8 +4,8 @@
   --h-color: rgb(131, 131, 131) !important;
   --p-color: rgb(221, 221, 221) !important;
   --list-color: rgb(185, 185, 185) !important; 
-  --input-bg-color: rgb(22, 22, 22);
-  --input-color: rgb(224, 224, 224);
+  --input-bg-color: rgb(22, 22, 22) !important;
+  --input-color: rgb(224, 224, 224) !important;
 }
 
 main, body, html, div, nav, canvas, header, footer, article, section, table  {
