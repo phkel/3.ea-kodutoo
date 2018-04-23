@@ -17,7 +17,7 @@ buttonSepia.onclick = function (element) {
 }
 
 buttonRainbow.onclick = function (element) {
-
+  chrome.tabs.insertCSS(null, {file: 'rainbow.css'})
 }
 
 var video = document.getElementById('video')

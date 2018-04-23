@@ -1,11 +1,11 @@
 :root {
-  --main-bg-color: #000 !important;
-  --main-color: #fff !important;
-  --h-color: rgb(131, 131, 131) !important;
-  --p-color: rgb(221, 221, 221) !important;
-  --list-color: rgb(185, 185, 185) !important; 
-  --input-bg-color: rgb(22, 22, 22);
-  --input-color: rgb(224, 224, 224);
+  --main-bg-color: rgb(255, 104, 242) !important;
+  --main-color: rgb(152, 193, 255) !important;
+  --h-color: rgb(255, 244, 89) !important;
+  --p-color: rgb(99, 255, 60) !important;
+  --list-color: rgb(94, 244, 255) !important;
+  --input-bg-color: rgb(255, 169, 57) !important;
+  --input-color: rgb(79, 255, 123) !important;
 }
 
 main, body, html, div, nav, canvas, header, footer, article, section, table  {
