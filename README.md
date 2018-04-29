@@ -18,3 +18,11 @@ Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetu
 
 * Chrome extension API [JavaScript APIs](https://developer.chrome.com/extensions/api_index/)
 * Chrome extension'ite näited [Sample Extensions](https://developer.chrome.com/extensions/samples/)
+
+## Autorid
+
+Krislyn Luks ja Kertu Kipper
+
+## Kirjeldus
+
+Rakendus on loodud veebilehtedel mitte liiga kaua liikumatult olemiseks ning tuju tõstmiseks või hoidmiseks. Kindlasti mitte tuju langetamise eesmärkidel. Valikus on kolm meeleolu, millega kaasneb erinev aeg, millal rakendus palub sul end liigutada. Esimene tuju on must-valge ning teavitab sind juba 10sekundi möödumisel, et on aeg liigutada. Mõeldud eriti nukratele hingedele. Sepia stiilis meeleolu annab sulle aega niisama olla minuti ning vikerkaare moodi tujuga inimesed saavad paigal istuda lausa kaks minutit. 
