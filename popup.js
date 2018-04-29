@@ -13,6 +13,7 @@ buttonMonochrome.onclick = function (element) {
 }
 
 buttonSepia.onclick = function (element) {
+  chrome.tabs.insertCSS(null, {file: 'sepia.css'}) 
 
 }
 
