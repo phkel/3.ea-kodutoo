@@ -1,6 +1,6 @@
 {
   "name": "Change your mood",
-  "version": "1.0",
+  "version": "1.1",
   "description": "whatever you feel",
   "permissions": ["activeTab"], 
   "browser_action": {
@@ -18,5 +18,5 @@
     "48": "images/mood.png",
     "128": "images/mood.png"
   },
-  "manifest_version": 2
+  "manifest_version": 3
 }
