@@ -1,0 +1,33 @@
+:root {
+    --main-bg-color: rgb(239, 224, 185) !important;
+    --main-color: rgb(100, 59, 15) !important;
+    --h-color: rgb(228, 176, 74) !important;
+    --p-color: rgb(42, 44, 5) !important;
+    --list-color: rgb(183, 82, 30) !important;
+    --input-bg-color: rgb(204, 153, 0) !important;
+    --input-color:white !important;
+  }
+  
+  main, body, html, div, nav, canvas, header, footer, article, section, table  {
+    background-color: var(--main-bg-color);
+    color: var(--main-color);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--h-color);
+  }
+  
+  p {
+    color: var(--p-color);
+  }
+  
+  ul, ol, li, a {
+    color: var(--list-color); 
+  }
+  
+  input[type="text"] {
+      font-family: 'Times New Roman', Times, serif;
+    background-color: var(--input-bg-color);
+    color: var(--input-color);
+  }
+  
